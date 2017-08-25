@@ -1,0 +1,125 @@
+@font-face {
+  font-family: 'pearl-icon';
+  src:  url('../fonts/pearl-icon.eot?uc2ui');
+  src:  url('../fonts/pearl-icon.eot?uc2ui#iefix') format('embedded-opentype'),
+    url('../fonts/pearl-icon.ttf?uc2ui') format('truetype'),
+    url('../fonts/pearl-icon.woff?uc2ui') format('woff'),
+    url('../fonts/pearl-icon.svg?uc2ui#pearl-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.pearl-icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'pearl-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pearl-home3:before {
+  content: "\e902";
+}
+.pearl-pencil2:before {
+  content: "\e906";
+}
+.pearl-image:before {
+  content: "\e90d";
+}
+.pearl-images:before {
+  content: "\e90e";
+}
+.pearl-camera:before {
+  content: "\e90f";
+}
+.pearl-music:before {
+  content: "\e911";
+}
+.pearl-video-camera:before {
+  content: "\e914";
+}
+.pearl-folder-open:before {
+  content: "\e930";
+}
+.pearl-price-tag:before {
+  content: "\e935";
+}
+.pearl-cart:before {
+  content: "\e93a";
+}
+.pearl-phone:before {
+  content: "\e942";
+}
+.pearl-envelop:before {
+  content: "\e945";
+}
+.pearl-location2:before {
+  content: "\e948";
+}
+.pearl-calendar:before {
+  content: "\e953";
+}
+.pearl-comment:before {
+  content: "\e96e";
+}
+.pearl-spinner9:before {
+  content: "\e982";
+}
+.pearl-search:before {
+  content: "\e986";
+}
+.pearl-menu:before {
+  content: "\e9bd";
+}
+.pearl-link:before {
+  content: "\e9cb";
+}
+.pearl-cross:before {
+  content: "\ea0f";
+}
+.pearl-previous2:before {
+  content: "\ea23";
+}
+.pearl-next2:before {
+  content: "\ea24";
+}
+.pearl-circle-right:before {
+  content: "\ea42";
+}
+.pearl-circle-left:before {
+  content: "\ea44";
+}
+.pearl-share2:before {
+  content: "\ea82";
+}
+.pearl-mail2:before {
+  content: "\ea84";
+}
+.pearl-google-plus:before {
+  content: "\ea8b";
+}
+.pearl-facebook:before {
+  content: "\ea90";
+}
+.pearl-twitter:before {
+  content: "\ea96";
+}
+.pearl-rss:before {
+  content: "\ea9b";
+}
+.pearl-youtube2:before {
+  content: "\ea9e";
+}
+.pearl-tumblr:before {
+  content: "\eab9";
+}
+.pearl-linkedin2:before {
+  content: "\eaca";
+}
